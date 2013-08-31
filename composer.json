@@ -1,0 +1,22 @@
+{
+    "name": "synn/auth",
+    "description": "A simple auth manager for laravel 4.",
+    "keywords": ["laravel", "auth"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Chabloz",
+            "email": "webmaster@onivers.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Synn\\Auth": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
