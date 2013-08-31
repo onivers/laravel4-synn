@@ -1,6 +1,6 @@
 {
     "name": "synn/auth",
-    "description": "A simple auth manager for laravel 4.",
+    "description": "A simple basic auth manager for laravel 4.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
     "authors": [
